@@ -45,3 +45,4 @@ userspace_tablet_driver_daemon
 userspace_tablet_driver_daemon*.deb
 install_manifest.txt
 *.cbp
+.vscode
